@@ -1,1 +1,3 @@
 content of fileA
+
+content of fileA
