@@ -1,1 +1,6 @@
+
 content of filec
+content of fileA
+
+content of fileA
+
