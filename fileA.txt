@@ -1,4 +1,4 @@
-content of fileA
+content of fileB
 
 content of fileA
 
